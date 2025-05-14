@@ -108,8 +108,10 @@ function Contact() {
                         </div>
                     </div>
                     <div className="xl:col-span-7 min-h-96">
-                        <div className="bg-[#cd7c2e] w-full h-full hover:cursor-grab rounded-3xl overflow-hidden">
-                            <ContactExperience />
+                        <div className="bg-[#cd7c2e] w-full xl:h-[75vh] hover:cursor-grab rounded-2xl overflow-hidden">
+                            {/* <ContactExperience /> */}
+                     <img src="/images/hero.jpg" alt="hero"       className="w-full h-full object-contain md:object-cover"  />
+
                         </div>
                     </div>
                 </div>

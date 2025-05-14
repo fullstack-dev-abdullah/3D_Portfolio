@@ -28,7 +28,7 @@ const words = [
     // { text: "Code", imgPath: "/images/code.svg" },
 ];
 const roles =[
-    "App Developer","Web Developer","Back-End Developer"
+    "App Developer","Front-End Developer","Back-End Developer","Full-Stack Developer"
 ]
 
 const counterItems = [
@@ -62,7 +62,7 @@ const expCards = [
         imgPath: "/images/exp1.png",
         logoPath: "/images/logo1.png",
         title: "React Native Developer",
-        date: "April 2024 - March 2025",
+        date: "April 2024 - March 2025 · 1 yr",
         responsibilities: [
             "working across core modules such as Visitors, Employees, Desks, Rooms, and Geofencing. Skilled in implementing user-friendly interfaces, integrating APIs, handling state management, and ensuring performance optimization.",
             "Collaborated closely with UI/UX designers to ensure seamless user experiences.",
@@ -74,7 +74,7 @@ const expCards = [
         imgPath: "/images/exp2.png",
         logoPath: "/images/logo2.png",
         title: "App Developer Intern",
-        date: "November 2022 - April 2024",
+        date: "November 2022 - April 2024 · 1 yr 5 mos",
         responsibilities: [
             "Built cross-platform mobile apps using React Native, completed 2 real-time projects and deployed in play store and app store.",
             "Improved app performance and user experience through code optimization and testing.",
@@ -87,25 +87,25 @@ const techStackIcons = [
     {
         name: "React Native Developer",
         modelPath: "/models/react-native-transformed.glb",
-        scale: 1,
+        scale: 0.8,
         rotation: [0, 0, 0],
     },
     {
-        name: "React Developer",
+        name: "Front-End Developer",
         modelPath: "/models/react_logo-transformed.glb",
-        scale: 1,
+        scale: 0.8,
         rotation: [0, 0, 0],
     },
     {
         name: "Backend Developer",
         modelPath: "/models/node-transformed.glb",
-        scale: 5,
+        scale: 3,
         rotation: [0, -Math.PI / 2, 0],
     },
     {
         name: "Project Manager",
         modelPath: "/models/git-svg-transformed.glb",
-        scale: 0.05,
+        scale: 0.03,
         rotation: [0, -Math.PI / 4, 0],
     },
 ];

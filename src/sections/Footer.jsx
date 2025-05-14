@@ -15,7 +15,7 @@ const Footer = () => {
                     ))}
                 </div>
                 <div className="flex flex-col justify-center">
-                    <p className="text-center md:text-end">
+                    <p className="text-center md:text-end" onClick={() => window.scrollTo(0, 0)}>
                         © {new Date().getFullYear()} Abdullah R. All rights reserved.
                     </p>
                 </div>

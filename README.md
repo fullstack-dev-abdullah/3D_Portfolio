@@ -4,7 +4,7 @@
 A visually striking **3D developer portfolio** built using modern web technologies like **React.js**, **Three.js**, and **Framer Motion**, designed to showcase my skills, projects, and passion for building immersive user experiences.
 
 ## 🌐 Live Demo
-👉 [Visit My Portfolio](https://abdullahzaid.vercel.app)
+👉 [Visit My Portfolio](https://abdullahr.vercel.app)
 
 ## 🛠 Tech Stack
 
@@ -16,7 +16,7 @@ A visually striking **3D developer portfolio** built using modern web technologi
 
 <div align="center">
   <br />
-    <a href="https://abdullahzaid.vercel.app" target="_blank">
+    <a href="https://abdullahr.vercel.app" target="_blank">
       <img src="public/images/preview.png" alt="Project Banner">
     </a>
   <br />
