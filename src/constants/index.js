@@ -128,15 +128,17 @@ const socialImgs = [
 const projects = [
     {
         id:1,
-        name:'VehiCure - The product provides a 360 degree view on your Vehicle\'s Health',
+        name:'VehiCure',
         imgPath:'/images/project1.png',
-        link:'https://irdai-dashboard.vercel.app'
+        link:'https://irdai-dashboard.vercel.app',
+        description:'The product provides a 360 degree view on your Vehicle\'s Health.'
     },
     {
         id:2,
-        name:'CRCS Dashboard - Dashboard for the CRCS portal',
+        name:'CRCS Dashboard',
         imgPath:'/images/project2.png',
-        link:'https://crcs-dashboard-2023.vercel.app'
+        link:'https://crcs-dashboard-2023.vercel.app',
+        description:'Dashboard for the CRCS portal'
     },
 ]
 export {

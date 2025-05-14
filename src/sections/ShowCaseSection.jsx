@@ -60,6 +60,7 @@ function ShowCaseSection() {
                                         />
                                     </div>
                                     <h2>{project.name}</h2>
+                                    <p>{project.description}</p>
                                 </a>
 
                             </div>

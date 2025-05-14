@@ -197,7 +197,10 @@ section {
             }
 
             h2 {
-                @apply text-lg md:text-xl lg:text-2xl font-semibold mt-5;
+                @apply text-lg md:text-xl lg:text-xl font-semibold mt-5 items-center text-center;
+            }
+            p{
+                @apply text-center mt-5;
             }
         }
     }
