@@ -58,8 +58,8 @@ const abilities = [
 
 const expCards = [
     {
-        review: "Abdullah brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
-        imgPath: "/images/exp1.png",
+        review: "A cloud-based visitor management system for office and residential receptions. Features include OTP authentication, face capture, document signing, and more for secure and seamless check-ins.",
+        imgPath: "/images/exp2.png",
         logoPath: "/images/logo1.png",
         title: "React Native Developer",
         date: "April 2024 - March 2025 · 1 yr",
@@ -70,8 +70,8 @@ const expCards = [
         ],
     },
     {
-        review: "Abdullah’s work on Appwrite’s mobile app brought a high level of quality and efficiency. He delivered solutions that enhanced our mobile experience & meet our product goals.",
-        imgPath: "/images/exp2.png",
+        review: "An IT & ITES company specializing in enterprise solutions using open-source technologies. Focused on consulting, implementation, education, and support to empower clients' online goals and maximize ROI.",
+        imgPath: "/images/exp1.png",
         logoPath: "/images/logo2.png",
         title: "App Developer Intern",
         date: "November 2022 - April 2024 · 1 yr 5 mos",

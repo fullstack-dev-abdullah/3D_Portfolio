@@ -197,7 +197,7 @@ section {
             }
 
             h2 {
-                @apply text-lg md:text-xl lg:text-xl font-semibold mt-5 items-center text-center;
+                @apply text-2xl font-semibold mt-5 items-center text-center;
             }
             p{
                 @apply text-center mt-5;
@@ -215,7 +215,7 @@ section {
         .bg-circle {
             @apply absolute -right-10 origin-center top-1/2 -translate-y-1/2
             w-[120%] h-[120%] group-hover:size-10 group-hover:right-10
-            rounded-full bg-white-50 transition-all duration-500;
+            rounded-2xl bg-white-50 transition-all duration-500;
         }
 
         .text {
