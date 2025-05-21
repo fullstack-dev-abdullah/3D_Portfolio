@@ -114,7 +114,7 @@ const socialImgs = [
     {
         name: "Github",
         imgPath: "/images/github.png",
-        url:'https://github.com/Abdullahzaid29'
+        url:'https://github.com/fullstack-dev-abdullah'
 
     },
     {
