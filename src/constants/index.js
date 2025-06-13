@@ -57,18 +57,7 @@ const abilities = [
 ];
 
 const expCards = [
-    {
-        review: "A cloud-based visitor management system for office and residential receptions. Features include OTP authentication, face capture, document signing, and more for secure and seamless check-ins.",
-        imgPath: "/images/exp2.png",
-        logoPath: "/images/logo1.png",
-        title: "React Native Developer",
-        date: "April 2024 - March 2025 · 1 yr",
-        responsibilities: [
-            "working across core modules such as Visitors, Employees, Desks, Rooms, and Geofencing. Skilled in implementing user-friendly interfaces, integrating APIs, handling state management, and ensuring performance optimization.",
-            "Collaborated closely with UI/UX designers to ensure seamless user experiences.",
-            "Optimized app performance using memoization, lazy loading, and minimized re-renders.",
-        ],
-    },
+
     {
         review: "An IT & ITES company specializing in enterprise solutions using open-source technologies. Focused on consulting, implementation, education, and support to empower clients' online goals and maximize ROI.",
         imgPath: "/images/exp1.png",
